@@ -7,7 +7,7 @@ const IndexPage = () => {
       
       <body>
         <p>
-          I have no ideas. I need like-minded netizens. You may contact me.
+          I have no ideas. I need like-minded netizens who is also want to be a successful independent developer.<br/>You may contact me.
           {/* email silent1119@163.com */}
           <a href="mailto:silent1119@163.com">silent1119@163.com</a>
         </p>
